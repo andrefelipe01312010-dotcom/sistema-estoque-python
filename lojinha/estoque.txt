@@ -1,0 +1,14 @@
+Teclado;150;3
+Mouse;65.5;1
+Monitor;650.99;9
+Mousepad;25;30
+Celular;1450.99;67
+JBL;500.0;1
+Fone;100.0;3
+Controle;250.95;1000
+adsf;0.00;3
+PS5;4000.00;999
+Teclado2;1000.00;600
+Fone Bluetooth;40.00;344
+Tablet;450.00;3
+Notebook;2000.50;67
